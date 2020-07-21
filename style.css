@@ -1,0 +1,64 @@
+#main{
+    background-color:oldlace ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    line-height: 1.5;
+    width: 100%;
+    height: auto;
+}
+
+#title{
+    font-size: 2em;
+    font-style: normal;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(146, 94, 94);
+    text-align: center;
+    padding-top: 20px;
+           }
+
+#img-div{
+    background-color: rosybrown;
+    position: relative;
+    height: 600px;
+    margin-left: 20px;
+    margin-right: 20px;
+     
+}
+
+#image{
+    position: absolute;
+    left: 25%; top: 10%;
+    height: auto;
+    width: 50%;
+    max-width: 100%;
+}
+
+#img-caption{
+color: black;
+text-align: center;
+padding-top: 560px;
+}
+
+#tribute-info{
+    text-align: justify;
+    padding: 0px 20px 0px 0px;
+}
+
+#Top5{
+    font-size: 1.5em;
+    font-style: normal;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(146, 94, 94);
+    text-align: center;
+    padding-top: 0px;
+}
+
+#tribute-link{
+    font-size: 1em;
+    font-style: normal;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:blue;
+}
